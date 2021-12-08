@@ -1,4 +1,4 @@
-package com.bfecko;
+package com.kawa;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
